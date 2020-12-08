@@ -9,3 +9,4 @@ Um pouco sobre o João
 Com a descoberta do alinhamento entre a computação e a estatística, a Ciência de Dados, descobri minha paixão que é traduzir números em informações para repassar para as pessoas através da arte de contar uma história.
 
  > Este portfólio é focado no Bootcamp realizado pela Alura, onde estou aprendendo e me desenvolvendo mais sobre Data Science. Os projetos ao longo do curso envolvem entender condições sanitárias e epidemiológicas de diversas doenças no Brasil e conta com a presença do Átila Iamarino, biologista brasileiro e youtuber, para comentar tecnicamente sobre os insights gerados e comentar os projetos.
+
